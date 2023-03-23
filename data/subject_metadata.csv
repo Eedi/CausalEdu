@@ -1,0 +1,752 @@
+SubjectId,Name,ParentId,Level
+3,Maths,,0
+32,Number,3.0,1
+33,BIDMAS,144.0,3
+34,Upper and Lower Bounds,141.0,3
+35,Calculator Use,32.0,2
+36,Decimals,32.0,2
+37,"Factors, Multiples and Primes",32.0,2
+38,"Fractions, Decimals and Percentage Equivalence",32.0,2
+39,Fractions,32.0,2
+40,"Indices, Powers and Roots",32.0,2
+41,Basic Money,331.0,3
+42,Negative Numbers,32.0,2
+44,Percentages,32.0,2
+45,Proportion,32.0,2
+46,Ratio,32.0,2
+47,Standard Form,40.0,3
+48,Surds,32.0,2
+49,Algebra,3.0,1
+50,Expanding Single Brackets,152.0,3
+51,Expanding Double Brackets,152.0,3
+52,Factorising into a Single Bracket,153.0,3
+53,Factorising into a Double Bracket,153.0,3
+54,Straight Line Graphs,49.0,2
+55,Quadratic Graphs,49.0,2
+56,Graphs of Trigonometric Functions,158.0,3
+57,Cubics and Reciprocals,158.0,3
+58,Real Life Graphs,158.0,3
+59,Inequalities,49.0,2
+60,Rearranging Formula and Equations,156.0,3
+61,Sequences,49.0,2
+62,Writing and Simplifying Expressions,49.0,2
+63,Simultaneous Equations,154.0,3
+64,Linear Equations,154.0,3
+65,Quadratic Equations,154.0,3
+66,Solving Other Powers of x,154.0,3
+67,Substitution into Formula,156.0,3
+68,Transformation of Functions,49.0,2
+69,Trial and Improvement and Iterative Methods,154.0,3
+70,Writing Expressions,62.0,3
+71,Geometry and Measure,3.0,1
+72,3D Pythagoras,271.0,3
+73,"Types, Naming and Estimating",74.0,3
+74,Angles,71.0,2
+75,Area of Simple Shapes,178.0,3
+76,Bearings,74.0,3
+77,Circles,71.0,2
+78,Circle Theorems,74.0,3
+79,Compound Measures,71.0,2
+80,Congruency in Triangles,272.0,3
+81,Co-ordinates,49.0,2
+83,"Construction, Loci and Scale Drawing",71.0,2
+84,Properties of Polygons,174.0,3
+85,Nets,176.0,3
+86,Perimeter,178.0,3
+87,Plans and Elevations,176.0,3
+88,Properties of Quadrilaterals,174.0,3
+89,2D Pythagoras,271.0,3
+90,Length Scale Factors in Similar Shapes,272.0,3
+91,Symmetry,71.0,2
+92,Reflection,278.0,3
+93,Rotation,278.0,3
+94,Enlargement,278.0,3
+95,Translation and Vectors,278.0,3
+96,Combined Transformations,278.0,3
+97,Basic Trigonometry,71.0,2
+98,Units of Measurement,71.0,2
+99,Basic Vectors,71.0,2
+100,Volume and Surface Area,71.0,2
+101,Data and Statistics,3.0,1
+102,"Averages (mean, median, mode) from a List of Data",338.0,3
+103,Averages and Range from Grouped Data,338.0,3
+104,Box Plots,342.0,3
+105,Cumulative Frequency Diagram,342.0,3
+106,Block Graphs and Bar Charts,342.0,3
+107,Histogram,342.0,3
+108,Pictogram,342.0,3
+109,Pie Chart,342.0,3
+110,Experimental Probability and Relative Frequency,348.0,3
+111,Probability of Single Events,348.0,3
+112,Tree Diagrams with Dependent Events,348.0,3
+113,Data Collection,101.0,2
+114,Sampling and Bias,338.0,3
+115,Scatter Diagram,342.0,3
+116,Stem and Leaf Diagram,342.0,3
+117,Time Series and Line Graphs,342.0,3
+118,Two Way Tables,342.0,3
+119,Advanced Pure,3.0,1
+120,Factor Theorem,142.0,3
+121,Binomial Expansion,119.0,2
+122,Complex Numbers,119.0,2
+123,Conic Sections,119.0,2
+125,Differential Equations,126.0,3
+126,Differentiation,119.0,2
+128,Exponentials and Logarithms,119.0,2
+129,Integration,119.0,2
+130,Matrices,119.0,2
+131,Modulus Function,146.0,3
+133,Parametric Equations,119.0,2
+134,Partial Fractions,142.0,3
+135,Polar Co-ordinates,122.0,3
+137,Sequences and Series,119.0,2
+139,Advanced Trigonometry,119.0,2
+140,Advanced Vectors,119.0,2
+141,Rounding and Estimating,32.0,2
+142,Advanced Algebra,119.0,2
+144,Basic Arithmetic,32.0,2
+146,Functions,119.0,2
+149,Advanced Mechanics,3.0,1
+150,Advanced Decision,3.0,1
+151,Advanced Statistics,3.0,1
+152,Expanding Brackets,49.0,2
+153,Factorising,49.0,2
+154,Solving Equations,49.0,2
+156,Formula,49.0,2
+157,Writing Formula,156.0,3
+158,Other Graphs,49.0,2
+159,Equation of a Circle,158.0,3
+160,Graphs of Exponentials and Other Powers of x,158.0,3
+163,Transformations of functions in the form y =,68.0,3
+164,Transformations of functions in the form f(x),68.0,3
+165,Inequalities on Number Lines,59.0,3
+166,Solving Linear Inequalities,59.0,3
+167,Graphing Linear Inequalities (Shading Regions),59.0,3
+168,Solving Quadratic Inequalities,59.0,3
+171,Linear Sequences (nth term),61.0,3
+172,Quadratic Sequences,61.0,3
+173,Other Sequences,61.0,3
+174,2D Names and Properties of Shapes,71.0,2
+175,Properties of Triangles,174.0,3
+176,3D Shapes,71.0,2
+177,Names and Properties of 3D Shapes,176.0,3
+178,Perimeter and Area,71.0,2
+179,Compound Area,178.0,3
+180,Measuring Angles,74.0,3
+181,"Basic Angle Facts (straight line, opposite, around a point, etc)",74.0,3
+182,Angle Facts with Parallel Lines,74.0,3
+183,Angles in Polygons,74.0,3
+184,Parts of a Circle,77.0,3
+185,Circumference,77.0,3
+186,Area of a Circle,77.0,3
+187,Sectors of a Circle,77.0,3
+188,Surface Area of Prisms,100.0,3
+189,Volume of Prisms,100.0,3
+190,Construct Angle,83.0,3
+191,Construct Triangle,83.0,3
+192,Construct Angle and Line Bisectors,83.0,3
+193,Loci Scenarios,83.0,3
+195,Length Units,98.0,3
+196,Area Units,98.0,3
+197,Volume and Capacity Units,98.0,3
+198,Weight Units,98.0,3
+199,Temperature units,98.0,3
+200,Counting,144.0,3
+202,Place Value,144.0,3
+203,Mental Addition and Subtraction,144.0,3
+204,Mental Multiplication and Division,144.0,3
+205,Written Addition,144.0,3
+206,Written Subtraction,144.0,3
+207,Written Multiplication,144.0,3
+208,Written Division,144.0,3
+209,Time,98.0,3
+210,Ordering Negative Numbers,42.0,3
+211,Adding and Subtracting Negative Numbers,42.0,3
+212,Multiplying and Dividing Negative Numbers,42.0,3
+213,"Rounding to the Nearest Whole (10, 100, etc)",141.0,3
+214,Rounding to Decimal Places,141.0,3
+215,Rounding to Significant Figures,141.0,3
+216,Estimation,141.0,3
+217,Basic Calculator Use,35.0,3
+218,Advanced Calculator Use,35.0,3
+219,Factors and Highest Common Factor,37.0,3
+220,Multiples and Lowest Common Multiple,37.0,3
+221,Prime Numbers and Prime Factors,37.0,3
+222,Ordering Decimals,36.0,3
+223,Adding and Subtracting with Decimals,36.0,3
+224,Multiplying and Dividing with Decimals,36.0,3
+225,Fractions of an Amount,39.0,3
+226,Equivalent Fractions,39.0,3
+227,Simplifying Fractions,39.0,3
+228,Ordering Fractions,39.0,3
+229,Converting Mixed Number and Improper Fractions,39.0,3
+230,Adding and Subtracting Fractions,39.0,3
+231,Multiplying Fractions,39.0,3
+232,Dividing Fractions,39.0,3
+233,Percentages of an Amount,44.0,3
+234,Percentage Increase and Decrease,44.0,3
+235,Reverse Percentages (Original Amount),44.0,3
+236,Repeated Percentages and Compound Interest,44.0,3
+237,Converting between Fractions and Decimals,38.0,3
+238,Converting between Fractions and Percentages,38.0,3
+239,Converting between Decimals and Percentages,38.0,3
+240,Simplifying and Equivalent Ratios,46.0,3
+241,Sharing in a Ratio,46.0,3
+242,Find Missing Quantities,46.0,3
+243,Direct Proportion,45.0,3
+244,Indirect (Inverse) Proportion,45.0,3
+245,"Squares, Cubes, etc",40.0,3
+246,"Square Roots, Cube Roots, etc",40.0,3
+247,Laws of Indices,40.0,3
+248,Simplifying Surds,48.0,3
+249,Operations with Surds,48.0,3
+250,Rationalising the Denominator,48.0,3
+251,Simplifying Expressions by Collecting Like Terms,62.0,3
+252,Multiplying Terms,62.0,3
+253,Dividing Terms,62.0,3
+254,Difference of Two Squares,153.0,3
+255,Algebraic Fractions,49.0,2
+256,Completing the Square,153.0,3
+257,Plotting Lines from Tables of Values,54.0,3
+258,Horizontal and Vertical Lines,54.0,3
+259,Finding the Equation of a Line,54.0,3
+260,Finding the Gradient and Intercept of a Line from the Equation,54.0,3
+261,Gradient as change in y over change in x,54.0,3
+262,Parallel Lines,54.0,3
+263,Perpendicular Lines,54.0,3
+264,Graphical Solution of Simultaneous Equations,54.0,3
+265,Plotting Quadratics from Tables of Values,55.0,3
+266,Sketching from Factorised Form,55.0,3
+267,Sketching from Completing the Square Form,55.0,3
+268,Graphical Solution of Quadratic Equations,55.0,3
+269,"Speed, Distance, Time",79.0,3
+270,Density,79.0,3
+271,Pythagoras,71.0,2
+272,Similarity and Congruency,71.0,2
+273,"Length, Area and Volume Scale Factors",272.0,3
+274,Congruency in Other Shapes,272.0,3
+275,Line Symmetry,91.0,3
+276,Rotational Symmetry,91.0,3
+277,3D Plane Symmetry,91.0,3
+278,Transformations,71.0,2
+279,Right-angled Triangles (SOHCAHTOA),97.0,3
+280,Non Right-angled Triangles (Sine and Cosine Rules),97.0,3
+281,Area of Non Right-angled Triangles,97.0,3
+282,Exact Values of Trigonometric Ratios,97.0,3
+283,Add and Subtract Vectors,99.0,3
+284,Vector Geometry,99.0,3
+285,Algorithms,150.0,2
+286,Graphs and Networks,150.0,2
+287,Bipartite Graphs,150.0,2
+288,Minimum Connector Problems,150.0,2
+289,Finding the Shortest Path,150.0,2
+290,Route Inspection,150.0,2
+291,Travelling Salesperson,150.0,2
+292,Linear Programming,150.0,2
+293,Simplex Algorithm,150.0,2
+294,Network Flows,150.0,2
+295,Critical Path Analysis,150.0,2
+296,Dynamic Programming,150.0,2
+297,Game Theory,150.0,2
+298,Kinematics,149.0,2
+299,"Momentum, Collisions and Impulse",149.0,2
+300,Vectors in Mechanics,149.0,2
+301,Forces and Equilibrium,149.0,2
+302,Newton’s Laws of Motion,149.0,2
+303,Projectiles,149.0,2
+304,"Work, Energy and Power",149.0,2
+305,Centre of Mass,149.0,2
+306,Uniform and Non-Uniform Circular Motion,149.0,2
+307,Simple Harmonic Motion,149.0,2
+308,Elastic Springs and Strings,149.0,2
+309,Relative Velocity,149.0,2
+310,Angular Motion,149.0,2
+311,Stability and Oscillations,149.0,2
+312,Moment of Inertia,149.0,2
+313,Advanced Measures of Variation,151.0,2
+314,Coding,151.0,2
+315,Permutations and Combinations,151.0,2
+316,Correlation,151.0,2
+317,Regression,151.0,2
+318,Discrete Random Variables,151.0,2
+319,Continuous Random Variables,151.0,2
+320,Binomial Distribution,151.0,2
+321,Normal Distribution,151.0,2
+322,Student t Distribution,151.0,2
+323,Confidence Intervals,151.0,2
+324,Hypothesis Testing,151.0,2
+325,Geometric Distribution,151.0,2
+326,Poisson Distribution,151.0,2
+327,Chi-Squared Distribution,151.0,2
+331,Money,32.0,2
+332,Currency Conversions,331.0,3
+334,Writing Ratios,46.0,3
+335,Expanding Triple Brackets and more,152.0,3
+336,Tally Charts,113.0,3
+337,Types of Data and Questionnaires,113.0,3
+338,Data Processing,101.0,2
+339,Range and Interquartile Range from a List of Data,338.0,3
+340,Averages and Range from Frequency Table,338.0,3
+341,Interpreting and Comparing Data using Averages and Range,338.0,3
+342,Data Representation,101.0,2
+343,Frequency Diagram and Frequency Polygon,342.0,3
+344,Venn Diagrams,342.0,3
+348,Probability,101.0,2
+349,Combined Events,348.0,3
+350,Tree Diagrams with Independent Events,348.0,3
+351,Using the Probability Addition Formula,348.0,3
+352,Using the Conditional Probability Formula,348.0,3
+353,Probability with Venn Diagrams,348.0,3
+354,Algebraic Division,142.0,3
+355,Remainder Theorem,142.0,3
+356,Algebraic Fractions,142.0,3
+357,Pascal's Triangle,121.0,3
+358,Using the nCr Button,121.0,3
+359,"Expanding (a + bx)ⁿ, where n is a positive integer",121.0,3
+360,"Expanding (a + bx)ⁿ, where n is a negative integer or a fraction",121.0,3
+361,Arithmetic Sequences,137.0,3
+362,Geometric Sequences,137.0,3
+363,Sum to Infinity,137.0,3
+365,Recurrence Relations,137.0,3
+366,Sigma Notation,137.0,3
+367,Summing Series,137.0,3
+368,Maclaurin Series,137.0,3
+369,Basic dy/dx,126.0,3
+370,Differentiation from First Principals,126.0,3
+371,Finding the Gradient,126.0,3
+372,Finding Maximums and Minimums,126.0,3
+373,Points of Inflection,126.0,3
+374,Increasing and Decreasing Functions,126.0,3
+375,Equations of Tangents,126.0,3
+376,Equations of Normals,126.0,3
+377,Second Order Derivative,126.0,3
+378,Chain Rule,126.0,3
+379,Product Rule,126.0,3
+380,Quotient Rule,126.0,3
+381,Differentiation Involving Trigonometric Functions,126.0,3
+382,Differentiation Involving Inverse Trigonometric Functions,126.0,3
+383,Differentiation Involving Logs,126.0,3
+384,Differentiation Involving Exponentials,126.0,3
+385,Implicit Differentiation,126.0,3
+386,Exponential Growth and Decay,126.0,3
+387,Differentiation in Context,126.0,3
+388,Basic Indefinite Integration,129.0,3
+389,Basic Definite Integration,129.0,3
+390,Area Under a Curve,129.0,3
+391,Area Between Two Functions,129.0,3
+392,Finding the Equation of a Curve from dy/dx,129.0,3
+393,Trapezium Rule,129.0,3
+394,Simpson's Rule,129.0,3
+395,Integration by Parts,129.0,3
+396,Volume of Revolution,129.0,3
+397,Integration Involving Trigonometric Functions,129.0,3
+398,Integration Involving Logs,129.0,3
+399,Integration Involving Exponentials,129.0,3
+400,Integration Involving Partial Fractions,129.0,3
+401,Improper Integrals and Limits to Infinity,129.0,3
+402,Integration in Context,129.0,3
+403,Graphs of Curves Defined Parametrically,133.0,3
+404,Converting between Parametric and Cartesian Forms,133.0,3
+405,Parametric Differentiation,133.0,3
+406,Naming Co-ordinates in 2D,81.0,3
+407,Naming Co-ordinates in 3D,81.0,3
+408,Midpoint Between Two Co-ordinates,81.0,3
+409,Gradient Between Two Co-ordinates,81.0,3
+410,Distance Between Two Co-ordinates,81.0,3
+411,Radians,119.0,2
+412,Converting Between Degrees and Radians,411.0,3
+413,Length of an Arc,411.0,3
+414,Area of a Sector,411.0,3
+415,Area of a Segment,411.0,3
+416,Solving Basic Trigonometric Equations,139.0,3
+417,Basic Trigonometric Identities,139.0,3
+418,Reciprocal Trigonometric Identities,139.0,3
+419,Compound and Double Angle Trigonometric Identities,139.0,3
+420,Solving Trigonometric Equations Using Identities,139.0,3
+421,Converting and solving with the form acos(x) + bsin(x),139.0,3
+422,Graphs of Reciprocal Trigonometric Functions,139.0,3
+423,Graphs of Inverse Trigonometric Functions,139.0,3
+424,General Solutions of Trigonometric Equations,139.0,3
+425,Numerical Methods,119.0,2
+426,Approximation of Roots,425.0,3
+427,Interval Bisection,425.0,3
+428,Euler's Method,425.0,3
+429,Newton-Rhapson Method,425.0,3
+430,Laws of Logarithms,128.0,3
+431,Solving Equations with Exps and Logs,128.0,3
+432,Graphs of Exp and Log Functions,128.0,3
+433,Linear Laws,128.0,3
+434,Function Notation,146.0,3
+435,Domain and Range,146.0,3
+436,Inverse Functions,146.0,3
+437,Composite Functions,146.0,3
+438,Advanced Transformation of Functions,146.0,3
+439,Angles in Triangles,74.0,3
+440,Vector Notation,140.0,3
+441,Addition and Subtraction of Vectors,140.0,3
+442,Position Vectors and Geometrical Applications,140.0,3
+443,Scalar Product,140.0,3
+444,Vector Equation of a Line,140.0,3
+445,Vector Product,140.0,3
+446,Addition and Subtraction of Matrices,130.0,3
+447,Multiplication of Matrices,130.0,3
+448,Transformations of Matrices,130.0,3
+449,Determinants and Inverses of 2×2,130.0,3
+450,Determinants and Inverses of 3×3,130.0,3
+451,Roots of Polynomials,119.0,2
+452,Quadratic Equations,451.0,3
+453,Cubic Equations,451.0,3
+454,Roots of Other Polynomials,451.0,3
+455,Operations with Complex Numbers,122.0,3
+456,Complex Conjugates,122.0,3
+457,Solving Equations with Complex Numbers,122.0,3
+458,Roots of Equations with Complex Numbers,122.0,3
+459,Argand Diagrams,122.0,3
+460,Modulus and Argument,122.0,3
+461,Complex Numbers in Polar Form,122.0,3
+462,"Co-ordinate Geometry Problems (tangents, normals)",126.0,3
+463,Further Functions,119.0,2
+464,Graphs of Rational Functions,463.0,3
+465,Hyperbolic Functions,463.0,3
+466,Parabolas,123.0,3
+467,Ellipses,123.0,3
+468,Hyperbolas,123.0,3
+469,Rectangular Hyperbolas,123.0,3
+470,Group Theory,119.0,2
+471,Structures and Operations,470.0,3
+472,Properties of Groups,470.0,3
+473,Types of Groups,470.0,3
+474,Standard Deviation and Variance from Discrete Data,313.0,3
+475,Standard Deviation and Variance from Frequency Table,313.0,3
+476,Standard Deviation and Variance from Grouped Data,313.0,3
+477,Using of Statistical Functions on Calculator,313.0,3
+478,Coding with Mean,314.0,3
+479,Coding with Standard Deviation and Variance,314.0,3
+480,Factorial Notation,315.0,3
+481,Arrangements,315.0,3
+482,Permutations,315.0,3
+483,Combinations,315.0,3
+484,Product Moment Correlation Co-efficient,316.0,3
+485,Coding,316.0,3
+486,Independent and Dependent Variables,317.0,3
+487,Regression Equation,317.0,3
+488,Residuals,317.0,3
+489,Probability Mass Function,318.0,3
+490,Expectation of a Discrete Random Variable,318.0,3
+491,Variance of a Discrete Random Variable,318.0,3
+492,Probability Density Function,319.0,3
+493,Expectation of a Continuous Random Variable,319.0,3
+494,Variance of a Continuous Random Variable,319.0,3
+495,Cumulative Distribution Function,319.0,3
+496,Rectangular Distribution,319.0,3
+497,Conditions for Binomial Distribution,320.0,3
+498,Writing the Binomial Distribution,320.0,3
+499,Using the Binomial Formula,320.0,3
+500,Using the Binomial Tables,320.0,3
+501,Conditions for Normal Distribution,321.0,3
+502,Writing the Normal Distribution,321.0,3
+503,Finding the Value of z given a Probability,321.0,3
+504,Standardising a Normal Distribution,321.0,3
+505,Using the Normal Distribution Tables,321.0,3
+506,Central Limit Theorem,321.0,3
+507,Conditions for Student t Distribution,322.0,3
+508,Writing the Student t Distribution,322.0,3
+509,Finding the Value of t given a Probability,322.0,3
+510,Using the Student t Tables,322.0,3
+511,Deciding on the Distribution,323.0,3
+512,Calculating the Multiplier,323.0,3
+513,Calculating the Standard Error,323.0,3
+514,Using Confidence Intervals to Make Conclusions,323.0,3
+515,Writing H0 and H1,324.0,3
+516,Deciding on the Distribution,324.0,3
+517,Calculating the Test Statistic,324.0,3
+518,Working Out the Critical Value,324.0,3
+519,Accepting or Rejecting H0,324.0,3
+520,Type 1 and Type 2 Errors,324.0,3
+521,Conditions for the Geometric Distribution,325.0,3
+522,Writing the Geometric Distribution,325.0,3
+523,Using the Geometric Formula,325.0,3
+524,Using the Geometric Tables,325.0,3
+525,Conditions for the Poisson Distribution,326.0,3
+526,Writing the Poisson Distribution,326.0,3
+527,Using the Poisson Formula,326.0,3
+528,Using the Poisson Tables,326.0,3
+529,Poisson Questions in Context,326.0,3
+530,Conditions for the Chi-Squared Distribution,327.0,3
+531,Writing the Chi-Squared Distribution,327.0,3
+532,Working with Contingency Tables,327.0,3
+533,Using the Chi-Squared Tables,327.0,3
+534,Yates' Correction,327.0,3
+535,Equations of Motion (SUVAT),298.0,3
+536,Equations for General Linear Motion,298.0,3
+537,Linear Motion Under a Variable Force,298.0,3
+538,Vector and Scalar Quantities,298.0,3
+539,Velocity-Time Graphs,298.0,3
+540,Displacement-Time Graphs,298.0,3
+541,"Displacement, Velocity and Acceleration",298.0,3
+542,Equations for Linear Momentum,299.0,3
+543,Conservation of Momentum,299.0,3
+544,Newton's Experimental Law,299.0,3
+545,Coefficient of Restitution,299.0,3
+546,Impulse as Change in Momentum,299.0,3
+547,Impact of Two Smooth Spheres,299.0,3
+549,Problems Involving Impulse and Momentum,299.0,3
+550,Vector Nature of Forces,300.0,3
+551,Resultant of Two or More Forces,300.0,3
+552,Resolve Forces,300.0,3
+553,i and j Notation,300.0,3
+554,Weight and Mass,301.0,3
+555,Newton's Second Law F = ma,301.0,3
+556,Forces Diagrams,301.0,3
+557,Newton's First Law,301.0,3
+558,"Limits of Modelling Contact as ""Smooth""",301.0,3
+559,Limiting Friction and Limiting Equilibrium,301.0,3
+560,Coefficient of Friction,301.0,3
+561,Moments of Force About a Point,301.0,3
+562,Principle of Moments,301.0,3
+563,Toppling and Sliding,301.0,3
+564,Linear Motion,302.0,3
+565,Vertical Motion,302.0,3
+566,Inclined Planes,302.0,3
+567,Motion of Two Connected Particles,302.0,3
+568,Newton's Third Law,302.0,3
+569,Model using Constant Acceleration,303.0,3
+570,Horizontal and Vertical Equations of Motion,303.0,3
+571,Greatest Height and Max Range,303.0,3
+572,Equation of Trajectory,303.0,3
+573,Gravitational Potential Energy,304.0,3
+574,Kinetic Energy,304.0,3
+575,Work Done,304.0,3
+576,Power,304.0,3
+577,Change in Energy and Work Done,304.0,3
+578,Gravity on Rigid Bodies,305.0,3
+579,Locate Centre of Mass,305.0,3
+580,Triangular Laminar and Other Simple Shapes,305.0,3
+581,Composite Rigid Bodies,305.0,3
+582,Find Centre of Mass using Integration,305.0,3
+583,Angular Velocity,306.0,3
+584,Acceleration,306.0,3
+585,Vertical Circles (Components of Acceleration),306.0,3
+586,Points where Circular Motion Breaks Down,306.0,3
+587,Equations of Simple Harmonic Motion,307.0,3
+588,Period and Amplitude,307.0,3
+589,Small Angle Approximations,307.0,3
+590,Simple Pendulum,307.0,3
+591,Hooke's Law,308.0,3
+592,Elastic Potential Energy,308.0,3
+593,Modulus of Elasticity,308.0,3
+594,Relative Velocity Equation,309.0,3
+595,Constant Angular Acceleration,310.0,3
+596,Relative Velocity and Displacement,310.0,3
+597,Interception,310.0,3
+598,Determining the Course for Closest Approach,310.0,3
+599,Conservation of Angular Momentum,310.0,3
+600,Couples,310.0,3
+601,Stable and Unstable Equilibriums,311.0,3
+602,Equation of Motion from Differentiation,311.0,3
+603,Approximate Period of Small Oscillations about Stable Equilibrium,311.0,3
+604,Moment of Inertia for a System of Particles,312.0,3
+605,Additive Property of Moment of Inertia,312.0,3
+606,Use of Integration to Find Moment of Inertia,312.0,3
+607,Parallel and Perpendicular Axes Theorems,312.0,3
+608,Following Instructions,285.0,3
+609,Following Flow Diagrams,285.0,3
+610,Bubble Sort,285.0,3
+611,Shuttle Sort,285.0,3
+612,Packing Algorithms,285.0,3
+613,Eulerian and Semi-Eulerian Graphs,286.0,3
+614,Planar Graphs,286.0,3
+615,Directed Graphs,286.0,3
+616,Representing Networks by Matrices,286.0,3
+617,Create Bipartite Graph or Adjacency Matrix,287.0,3
+618,Convert between Bipartite Graph and Adjacency Matrix,287.0,3
+619,Use Initial Matching to Find an Improved Matching,287.0,3
+620,Find Complete Matching,287.0,3
+621,Spanning Trees,288.0,3
+622,Prim's Algorithm,288.0,3
+623,Kruskal's Algorithm,288.0,3
+624,Dijkstra's Algorithm,289.0,3
+625,Traversability,290.0,3
+626,Chinese Postman Algorithm,290.0,3
+627,Nearest Neighbour Algorithm,291.0,3
+628,Upper Bound,291.0,3
+629,Lower Bound,291.0,3
+630,Tour Improvement Algorithm,291.0,3
+631,Writing the Functions and Constraints,292.0,3
+632,Representing the Problem Graphically,292.0,3
+633,Integer Solutions,292.0,3
+634,Blending Problems,292.0,3
+635,Writing the Functions and Constraints,293.0,3
+636,Tableau Format,293.0,3
+637,Carrying out the Simplex Algorithm,293.0,3
+638,Terminology,294.0,3
+639,Maximum Flow - Minimum Cut Theorem,294.0,3
+640,Labelling Procedure,294.0,3
+641,Minimum Capacities,294.0,3
+642,Activity Networks,295.0,3
+643,Earliest and Latest Starting Times,295.0,3
+644,Critical Activities,295.0,3
+645,Cascade Charts,295.0,3
+646,Resource Levelling,295.0,3
+647,Dynamic Programming Terminology,296.0,3
+648,Minimising and Maximising Problems,296.0,3
+649,Function Machines,154.0,3
+650,Maximin and Minimax Problems,296.0,3
+651,Game Theory Terminology,297.0,3
+652,Stable Solutions,297.0,3
+653,Mixed Strategies,297.0,3
+654,Relating Quadratic Graphs to the Discriminant,55.0,3
+655,Missing Lengths,178.0,3
+656,Co-ordinate Geometry with Straight Lines,54.0,3
+657,Isometric Drawings,176.0,3
+658,Unit Vectors,140.0,3
+1059,Best Value,46.0,3
+1076,Solving Trigonometric Equations,154.0,3
+1077,Simplifying Algebraic Fractions,255.0,3
+1078,Adding and Subtracting Algebraic Fractions,255.0,3
+1079,Multiplying and Dividing Algebraic Fractions,255.0,3
+1080,Solving Equations with Algebraic Fractions,255.0,3
+1081,Algebraic Proof,62.0,3
+1082,Recurring Decimals to Fractions,38.0,3
+1156,Maths-Others,3.0,1
+1157,Number-Others,32.0,2
+1158,Calculator Use-Others,35.0,3
+1159,Decimals-Others,36.0,3
+1160,"Factors, Multiples and Primes-Others",37.0,3
+1161,"Fractions, Decimals and Percentage Equivalence-Others",38.0,3
+1162,Fractions-Others,39.0,3
+1163,"Indices, Powers and Roots-Others",40.0,3
+1164,Negative Numbers-Others,42.0,3
+1165,Percentages-Others,44.0,3
+1166,Proportion-Others,45.0,3
+1167,Ratio-Others,46.0,3
+1168,Surds-Others,48.0,3
+1169,Algebra-Others,49.0,2
+1170,Straight Line Graphs-Others,54.0,3
+1171,Quadratic Graphs-Others,55.0,3
+1172,Inequalities-Others,59.0,3
+1173,Sequences-Others,61.0,3
+1174,Writing and Simplifying Expressions-Others,62.0,3
+1175,Transformation of Functions-Others,68.0,3
+1176,Geometry and Measure-Others,71.0,2
+1177,Angles-Others,74.0,3
+1178,Circles-Others,77.0,3
+1179,Compound Measures-Others,79.0,3
+1180,Co-ordinates-Others,81.0,3
+1181,"Construction, Loci and Scale Drawing-Others",83.0,3
+1182,Symmetry-Others,91.0,3
+1183,Basic Trigonometry-Others,97.0,3
+1184,Units of Measurement-Others,98.0,3
+1185,Basic Vectors-Others,99.0,3
+1186,Volume and Surface Area-Others,100.0,3
+1187,Data and Statistics-Others,101.0,2
+1188,Data Collection-Others,113.0,3
+1189,Advanced Pure-Others,119.0,2
+1190,Binomial Expansion-Others,121.0,3
+1191,Complex Numbers-Others,122.0,3
+1192,Conic Sections-Others,123.0,3
+1193,Differentiation-Others,126.0,3
+1194,Exponentials and Logarithms-Others,128.0,3
+1195,Integration-Others,129.0,3
+1196,Matrices-Others,130.0,3
+1197,Parametric Equations-Others,133.0,3
+1198,Sequences and Series-Others,137.0,3
+1199,Advanced Trigonometry-Others,139.0,3
+1200,Advanced Vectors-Others,140.0,3
+1201,Rounding and Estimating-Others,141.0,3
+1202,Advanced Algebra-Others,142.0,3
+1203,Basic Arithmetic-Others,144.0,3
+1204,Functions-Others,146.0,3
+1205,Advanced Mechanics-Others,149.0,2
+1206,Advanced Decision-Others,150.0,2
+1207,Advanced Statistics-Others,151.0,2
+1208,Expanding Brackets-Others,152.0,3
+1209,Factorising-Others,153.0,3
+1210,Solving Equations-Others,154.0,3
+1211,Formula-Others,156.0,3
+1212,Other Graphs-Others,158.0,3
+1213,2D Names and Properties of Shapes-Others,174.0,3
+1214,3D Shapes-Others,176.0,3
+1215,Perimeter and Area-Others,178.0,3
+1216,Algebraic Fractions-Others,255.0,3
+1217,Pythagoras-Others,271.0,3
+1218,Similarity and Congruency-Others,272.0,3
+1219,Transformations-Others,278.0,3
+1220,Algorithms-Others,285.0,3
+1221,Graphs and Networks-Others,286.0,3
+1222,Bipartite Graphs-Others,287.0,3
+1223,Minimum Connector Problems-Others,288.0,3
+1224,Finding the Shortest Path-Others,289.0,3
+1225,Route Inspection-Others,290.0,3
+1226,Travelling Salesperson-Others,291.0,3
+1227,Linear Programming-Others,292.0,3
+1228,Simplex Algorithm-Others,293.0,3
+1229,Network Flows-Others,294.0,3
+1230,Critical Path Analysis-Others,295.0,3
+1231,Dynamic Programming-Others,296.0,3
+1232,Game Theory-Others,297.0,3
+1233,Kinematics-Others,298.0,3
+1234,"Momentum, Collisions and Impulse-Others",299.0,3
+1235,Vectors in Mechanics-Others,300.0,3
+1236,Forces and Equilibrium-Others,301.0,3
+1237,Newton’s Laws of Motion-Others,302.0,3
+1238,Projectiles-Others,303.0,3
+1239,"Work, Energy and Power-Others",304.0,3
+1240,Centre of Mass-Others,305.0,3
+1241,Uniform and Non-Uniform Circular Motion-Others,306.0,3
+1242,Simple Harmonic Motion-Others,307.0,3
+1243,Elastic Springs and Strings-Others,308.0,3
+1244,Relative Velocity-Others,309.0,3
+1245,Angular Motion-Others,310.0,3
+1246,Stability and Oscillations-Others,311.0,3
+1247,Moment of Inertia-Others,312.0,3
+1248,Advanced Measures of Variation-Others,313.0,3
+1249,Coding-Others,314.0,3
+1250,Permutations and Combinations-Others,315.0,3
+1251,Correlation-Others,316.0,3
+1252,Regression-Others,317.0,3
+1253,Discrete Random Variables-Others,318.0,3
+1254,Continuous Random Variables-Others,319.0,3
+1255,Binomial Distribution-Others,320.0,3
+1256,Normal Distribution-Others,321.0,3
+1257,Student t Distribution-Others,322.0,3
+1258,Confidence Intervals-Others,323.0,3
+1259,Hypothesis Testing-Others,324.0,3
+1260,Geometric Distribution-Others,325.0,3
+1261,Poisson Distribution-Others,326.0,3
+1262,Chi-Squared Distribution-Others,327.0,3
+1263,Money-Others,331.0,3
+1264,Data Processing-Others,338.0,3
+1265,Data Representation-Others,342.0,3
+1266,Probability-Others,348.0,3
+1267,Radians-Others,411.0,3
+1268,Numerical Methods-Others,425.0,3
+1269,Roots of Polynomials-Others,451.0,3
+1270,Further Functions-Others,463.0,3
+1271,Group Theory-Others,470.0,3
+1636,Systematic Listing Strategies,144.0,3
+1637,Limits of Functions,463.0,3
+1638,Continuity of Functions,463.0,3
+1639,Graphs of Irrational Functions,463.0,3
+1647,Scale Drawing and Maps,46.0,3
+1648,Surface Area of Non-Prisms,100.0,3
+1649,Volume of Non-Prisms,100.0,3
+1650,Frequency Trees,342.0,3
+1651,3D Trigonometry,97.0,3
+1675,Limiting Values of Sequences,137.0,3
+1676,Roman Numerals,144.0,3
+1750,Pressure,79.0,3
+1975,Combining Operations,144.0,3
+1976,Frequency tables,113.0,3
+1977,Mixed operation Negative Numbers,42.0,3
+1978,Mixed operation Decimals,36.0,3
+1980,Types of number,32.0,2
+1981,Fractional Change,39.0,3
+1982,Mixed operation Fractions,39.0,3
+1983,Drawing Axes,54.0,3
+1984,Quadratic inequalities on Number Lines,59.0,3
+1985,Reading Scales,98.0,3
+1986,Multiply a vector by a scalar,99.0,3
+1987,Sorting Shapes,174.0,3
+1988,Labelling Shapes,174.0,3
+1989,Correct units of measurement,178.0,3
